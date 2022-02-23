@@ -1,2 +1,6 @@
 # Peer-programming-projects
 Python Dojo fun projects worked together in teams in replit
+
+23.01.22 Snake game. Studied Python for 2 days and looked to network and meet other Python programmers. Joined the London Python Dojo. Thought I was not going to contribute but I was able to, by breaking down the problem into smaller problems. I was able to read Python documentation. It was hard for me to follow along but I was proud of myself for doing this. Improvements: Learn more python
+
+23.02.22 MineSweeper game. I worked with 2 really good python programmers. My knowledge of python has helped me involve myself in the project however I was not confident to type. I look forward to typing in the console next month. I was good at understanding what I saw which is a big improvement to last week. This project is more complicated to the snake game, but I think my improvements from the month before. Improvements: learn about functions, arguments within functions, confidence in being a typer, learn debugging, dictionaries, some small games.
