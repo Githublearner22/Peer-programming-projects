@@ -1,7 +1,10 @@
 # Peer-programming-projects
 Python Dojo projects worked together in teams on a platform called replit.
 
-23.01.22 Snake game. Studied Python for 2 days and looked to network and meet other Python programmers. Joined the London Python Dojo. Thought I was not going to contribute but I was able to, by breaking down the problem into smaller problems. I was able to read Python documentation. It was hard for me to follow along but I was proud of myself for doing this. 
+23.01.22 Snake game. Studied Python for 2 days and looked to network and meet other Python programmers. Joined the London Python Dojo. Thought I was not going to contribute but I did, by breaking down the problem into smaller problems. I spoke about the interface, the size of the snake growing. I was able to read Python documentation. It was hard for me to follow along but I was proud of myself for doing this. 
+
+![Snake](https://user-images.githubusercontent.com/97604886/155436506-295b6708-26dd-40cd-82ab-85de0b1b2205.png)
+
 
 Improvements: Learn more python, keep networking.
 
@@ -9,5 +12,4 @@ Improvements: Learn more python, keep networking.
 
 Improvements: learn about functions, arguments within functions, confidence in being a typer, learn debugging, dictionaries, some small games.
 
-![Screenshot (129)](https://user-images.githubusercontent.com/97604886/155436101-f46b9abb-09ca-4ccd-8b40-9f7e4af72574.png)
-
+![Minesweeper](https://user-images.githubusercontent.com/97604886/155436525-e6728c12-9294-4640-9974-0dea9cf7d5ef.png)
