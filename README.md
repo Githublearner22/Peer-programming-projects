@@ -1,5 +1,5 @@
 # Peer-programming-projects
-Python Dojo fun projects worked together in teams in replit
+Python Dojo projects worked together in teams on a platform called replit.
 
 23.01.22 Snake game. Studied Python for 2 days and looked to network and meet other Python programmers. Joined the London Python Dojo. Thought I was not going to contribute but I was able to, by breaking down the problem into smaller problems. I was able to read Python documentation. It was hard for me to follow along but I was proud of myself for doing this. Improvements: Learn more python
 
