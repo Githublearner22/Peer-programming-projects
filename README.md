@@ -8,3 +8,6 @@ Improvements: Learn more python, keep networking.
 23.02.22 MineSweeper game. I worked with 2 really good python programmers. My knowledge of python has helped me involve myself in the project however I was not confident to type. I look forward to typing in the console next month. I was good at understanding what I saw which is a big improvement to last month. This project is more complicated to the snake game, but I think my learning of Python has helped keep up with the tempo of the programmers. 
 
 Improvements: learn about functions, arguments within functions, confidence in being a typer, learn debugging, dictionaries, some small games.
+
+![Screenshot (129)](https://user-images.githubusercontent.com/97604886/155436101-f46b9abb-09ca-4ccd-8b40-9f7e4af72574.png)
+
