@@ -13,3 +13,8 @@ Improvements: Learn more python, keep networking.
 Improvements: learn about functions, arguments within functions, confidence in being a typer, learn debugging, dictionaries, some small games.
 
 ![Minesweeper](https://user-images.githubusercontent.com/97604886/155436525-e6728c12-9294-4640-9974-0dea9cf7d5ef.png)
+
+
+23.03.22 Cleaning the code of the MineSweeper game. Our aim was to further improve the minesweeper game and also clean the code up. I learnt about scope in more detail by doing so.
+
+Improvements: Improving my researching skills.
